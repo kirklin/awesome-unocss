@@ -78,6 +78,9 @@ The instant on-demand Atomic CSS engine.
 
 **Legend**: 💙 Official resource · 📚 Library · 🧩 Components · 📁 Templates
 
+- 📚 [Anu](https://github.com/jd-solanki/anu) - DX focused utility based vue component library by [@jd-solanki](https://github.com/jd-solanki).
+- 📚 [OnuUI](https://github.com/onu-ui/onu-ui) - Popular, beautiful and fast UnoCSS component library by [@zyyv](https://github.com/zyyv), [@yzh990918](https://github.com/yzh990918).
+
 
 ## Starters & Themes
 
