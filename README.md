@@ -4,10 +4,10 @@
 <img src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg" style="width:100px;" />
 </p>
 
-<h1 align="center">Awesome UnoCSS</h1>
+<h2 align="center">Awesome UnoCSS</h2>
 
 <p align="center">
-The instant on-demand Atomic CSS engine.
+ <a href="https://uno.antfu.me/">UnoCSS</a> is a instant on-demand Atomic CSS engine.
 </p>
 
 <blockquote align="center">
