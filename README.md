@@ -86,6 +86,7 @@
 
 **Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
 
+- 🚀 [vite-boot](https://github.com/kirklin/vite-boot/tree/unocss) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + unocss + VueUse  Template.
 
 ## Open-Source Projects
 
