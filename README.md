@@ -35,10 +35,10 @@
 
 **Legend**: 💙 Official resource
 
-- 💙 [Website](https://uno.antfu.me/) - Official UnoCSS website.
+- 💙 [Website](https://unocss.dev/) - Official UnoCSS website.
 - 💙 [Repository](https://github.com/unocss/unocss) - Official UnoCSS repository.
 - 💙 [Discussions](https://github.com/unocss/unocss/discussions) - Official place to connect with other community members about UnoCSS.
-- 💙 [Play](https://uno.antfu.me/play/) - Online playground for UnoCSS.
+- 💙 [Play](https://unocss.dev/play/) - Online playground for UnoCSS.
 
 ## IDE Extensions
 
