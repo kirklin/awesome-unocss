@@ -1,4 +1,4 @@
-# Awesome UnoCSS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome UnoCSS [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <div align="center">
 	<br>
@@ -7,6 +7,7 @@
 		<img width="100" src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg" alt="Awesome UnoCSS">
 		<br>
 	</div>
+	<br>
 	<p>
 		<a href="https://unocss.dev/">UnoCSS</a> is an instant on-demand Atomic CSS engine.
 	</p>
