@@ -80,7 +80,10 @@
 ## Transformers
 
 **Legend**: 💙 Official Presets · 🤹‍♂️ Community Presets
-
+- 💙 [@unocss/transformer-variant-group](https://github.com/unocss/unocss/tree/main/packages/transformer-variant-group) - Transformer for Windi CSS's variant group feature.
+- 💙 [@unocss/transformer-directives](https://github.com/unocss/unocss/tree/main/packages/transformer-directives) - Transformer for CSS directives like `@apply`.
+- 💙 [@unocss/transformer-compile-class](https://github.com/unocss/unocss/tree/main/packages/transformer-compile-class) - Compile group of classes into one class.
+- 💙 [@unocss/transformer-attributify-jsx](https://github.com/unocss/unocss/tree/main/packages/transformer-attributify-jsx) - Support valueless attributify in JSX/TSX.
 - 🤹‍♂️ [unocss-transformer-attribute-values-group](https://github.com/lvjiaxuan/unocss-transformer-attribute-values-group) - Attribute values group transformer for UnoCSS.
 - 🤹‍♂️ [unocss-transformer-alias](https://github.com/zyyv/unocss-transformer-alias) - Transform alias for UnoCSS shortcuts.
 
@@ -97,7 +100,7 @@
 
 **Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
 
-- 🚀 [vite-boot](https://github.com/kirklin/vite-boot) - Vite Boot is a lightning fast Vue 3 boilerplate with strongly typed TypeScript, UnoCSS, DaisyUI, Vue Router, Pinia, and Netlify support..
+- 🚀 [vite-boot](https://github.com/kirklin/vite-boot) - Vite Boot is a lightning fast Vue 3 boilerplate with strongly typed TypeScript, UnoCSS, DaisyUI, Vue Router, Pinia, and Netlify support.
 
 
 ## Open-Source Projects
