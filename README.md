@@ -97,9 +97,11 @@
 
 **Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
 
-- 🚀 [vite-boot](https://github.com/kirklin/vite-boot/tree/unocss) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + unocss + VueUse  Template.
+- 🚀 [vite-boot](https://github.com/kirklin/vite-boot) - Vite Boot is a lightning fast Vue 3 boilerplate with strongly typed TypeScript, UnoCSS, DaisyUI, Vue Router, Pinia, and Netlify support..
+
 
 ## Open-Source Projects
+- 🚀 [celeris-admin](https://github.com/kirklin/celeris-admin) - Celeris-admin is a highly performant and customizable front-end development template built with Vue 3, Vite, and TypeScript. It features the latest syntax, components and APIs auto importing, state management, Chinese font presets, internationalization.
 
 
 ## Learning
