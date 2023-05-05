@@ -4,12 +4,14 @@
 	<br>
 	<br>
 	<div>
-		<img width="500" src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg" alt="Awesome UnoCSS">
+		<img width="100" src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg" alt="Awesome UnoCSS">
 		<br>
 	</div>
 	<p>
 		<a href="https://unocss.dev/">UnoCSS</a> is an instant on-demand Atomic CSS engine.
 	</p>
+	<p align="center">
+	NPM version：<a href="https://www.npmjs.com/package/unocss"><img src="https://img.shields.io/npm/v/unocss?color=c95f8b&amp;label=" alt="NPM version"></a></p>
 	<br>
 	<br>
 </div>
