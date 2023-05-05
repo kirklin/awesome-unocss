@@ -73,6 +73,10 @@
 - 🤹‍♂️ [unocss-preset-primitives](https://github.com/zirbest/unocss-preset-primitives) - Like [headlessui-tailwindcss](https://github.com/tailwindlabs/headlessui/tree/main/packages/%40headlessui-tailwindcss) , radix-ui , custom for UnoCSS By [@zirbest](https://github.com/zirbest).
 - 🤹‍♂️ [unocss-preset-theme](https://github.com/Dunqing/unocss-preset-theme) - Preset for automatic theme switching by [@Dunqing](https://github.com/Dunqing).
 - 🤹‍♂️ [unocss-preset-chinese](https://github.com/kirklin/unocss-preset-chinese) - Preset for Chinese fonts by [@kirklin](https://github.com/kirklin).
+- 🤹‍♂️ [unocss-preset-autoprefixer](https://github.com/zouhangwithsweet/unocss-preset-autoprefixer) - Autoprefixer Preset by [@zouhang](https://github.com/zouhangwithsweet).
+- 🤹‍♂️ [unocss-preset-scrollbar-hide](https://github.com/reslear/unocss-preset-scrollbar-hide) - Hide scrollbars, although the element can still be scrolled by [@reslear](https://github.com/reslear).
+- 🤹‍♂️ [unocss-preset-radix](https://github.com/endigma/unocss-preset-radix) - Use the Radix UI color palette with UnoCSS by [@endigma](https://github.com/endigma)
+- 🤹‍♂️ [unocss-preset-glyph](https://github.com/chu121su12/unocss-preset-glyph) - Embed subset of glyphs from fonts by [@chu121su12](https://github.com/chu121su12).
 
 
 ## Transformers
