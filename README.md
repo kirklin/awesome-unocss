@@ -63,9 +63,9 @@
 - 🤹‍♂️ [unocss-preset-chroma](https://github.com/chu121su12/unocss-preset-chroma) - Gradient Preset.
 - 🤹‍♂️ [unocss-preset-scrollbar](https://github.com/action-hong/unocss-preset-scrollbar) - Scrollbar Preset.
 - 🤹‍♂️ [unocss-applet](https://github.com/unocss-applet/unocss-applet) - Using UnoCSS in applet (UniApp / Taro).
-- 🤹‍♂️ [unocss-preset-weapp](https://github.com/MellowCo/unocss-preset-weapp) - Wechat MiniProgram Preset for [UniApp](https://uniapp.dcloud.io) and [Taro](https://taro-docs.jd.com/taro/docs).
+- 🤹‍♂️ [unocss-preset-weapp](https://github.com/MellowCo/unocss-preset-weapp) - WeChat MiniProgram Preset for [UniApp](https://uniapp.dcloud.io) and [Taro](https://taro-docs.jd.com/taro/docs).
 - 🤹‍♂️ [unocss-preset-heropatterns](https://github.com/Julien-R44/unocss-preset-heropatterns) - Preset that integrates [Hero Patterns](https://heropatterns.com/).
-- 🤹‍♂️ [unocss-preset-flowbite](https://github.com/Julien-R44/unocss-preset-flowbite) - Port of of [Flowbite Tailwind plugin](https://github.com/themesberg/flowbite) for UnoCSS.
+- 🤹‍♂️ [unocss-preset-flowbite](https://github.com/Julien-R44/unocss-preset-flowbite) - Port of [Flowbite Tailwind plugin](https://github.com/themesberg/flowbite) for UnoCSS.
 - 🤹‍♂️ [unocss-preset-forms](https://github.com/Julien-R44/unocss-preset-forms) - Port of [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) for UnoCSS.
 - 🤹‍♂️ [unocss-preset-extra](https://github.com/MoomFE/unocss-preset-extra) - [Animate.css](https://animate.style) Preset and some other rules.
 - 🤹‍♂️ [unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - daisyUI Preset.
