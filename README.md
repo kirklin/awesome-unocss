@@ -75,6 +75,7 @@
 - 🤹‍♂️ [unocss-preset-scrollbar-hide](https://github.com/reslear/unocss-preset-scrollbar-hide) - Hide scrollbars, although the element can still be scrolled.
 - 🤹‍♂️ [unocss-preset-radix](https://github.com/endigma/unocss-preset-radix) - Use the Radix UI color palette with UnoCSS.
 - 🤹‍♂️ [unocss-preset-glyph](https://github.com/chu121su12/unocss-preset-glyph) - Embed subset of glyphs from fonts.
+- 🤹‍♂️ [unocss-preset-grid](https://github.com/StatuAgency/unocss-preset-grid) - Bootstrap 5 Like Grid Preset.
 
 
 ## Transformers
@@ -94,6 +95,7 @@
 
 - 📚 [Anu](https://github.com/jd-solanki/anu) - DX focused utility based vue component library.
 - 📚 [OnuUI](https://github.com/onu-ui/onu-ui) - Popular, beautiful and fast UnoCSS component library.
+- 📚 [AtoUI](https://github.com/bennymi/ato-ui) - Elemental UI library for Svelte offering an easily themeable design system.
 
 
 ## Starters & Themes
@@ -104,7 +106,7 @@
 
 
 ## Open-Source Projects
-- 🚀 [celeris-admin](https://github.com/kirklin/celeris-admin) - Celeris-admin is a highly performant and customizable front-end development template built with Vue 3, Vite, and TypeScript. It features the latest syntax, components and APIs auto importing, state management, Chinese font presets, internationalization.
+- 🚀 [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web is a highly performant and customizable front-end development template built with Vue 3, Vite, and TypeScript. It features the latest syntax, components and APIs auto importing, state management, Chinese font presets, internationalization, and integration with OpenAI's ChatGPT API.
 
 
 ## Learning
