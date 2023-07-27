@@ -24,6 +24,7 @@
 - [IDE Extensions](#ide-extensions)
 - [Presets](#presets)
 - [Transformers](#transformers)
+- [Extractors](#extractors)
 - [UI Libraries, Components & Templates](#ui-libraries-components--templates)
 - [Starters & Themes](#starters--themes)
 - [Open-Source Projects](#open-source-projects)
@@ -87,6 +88,14 @@
 - 💙 [@unocss/transformer-attributify-jsx](https://github.com/unocss/unocss/tree/main/packages/transformer-attributify-jsx) - Support valueless attributify in JSX/TSX.
 - 🤹‍♂️ [unocss-transformer-attribute-values-group](https://github.com/lvjiaxuan/unocss-transformer-attribute-values-group) - Attribute values group transformer for UnoCSS.
 - 🤹‍♂️ [unocss-transformer-alias](https://github.com/zyyv/unocss-transformer-alias) - Transform alias for UnoCSS shortcuts.
+
+
+## Extractors
+
+**Legend**: 💙 Official Extractors · 🤹‍♂️ Community Extractors
+- 💙 [@unocss/extractor-pug](https://github.com/unocss/unocss/tree/main/packages/extractor-pug) - Extractor for Pug.
+- 💙 [@unocss/extractor-svelte](https://github.com/unocss/unocss/tree/main/packages/extractor-svelte) - Extractor for Svelte.
+- 💙 [@unocss/extractor-arbitrary-variants](https://github.com/unocss/unocss/tree/main/packages/extractor-arbitrary-variants) - Extractor to support arbitrary variants for utilities.
 
 
 ## UI Libraries, Components & Templates
